@@ -5,7 +5,7 @@
 ---
 
 ## 🌍 Descripción del Equipo 
-Somos el **Equipo 08** del curso **Nombre del curso 2026-2**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
+Somos el **Equipo 08** del curso **Fundamento de Diseño 2026-2**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
@@ -20,7 +20,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 ## 📸 Fotografía del Equipo  
 <p align="center">
 <img width="1408" height="768" alt="imagen_alumnos_IA" src="https://github.com/user-attachments/assets/3829718f-51c7-4d00-b262-ef37f178f059" />
-  <em>Figura 1. Fotografía del equipo 0X</em>
+  <em>Figura 1. Fotografía del equipo 8</em>
 </p>
 
 ---
@@ -33,7 +33,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Inoñan Alejo Patricia** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Garcia Vinces Brisette** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
 | <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Torres Sanchez Andrea** | Encargado/a de documentación | Comunicación científica, redacción técnica |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 5** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Huamani Huamani Leydi** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
 
 ---
 
