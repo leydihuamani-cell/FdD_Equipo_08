@@ -19,10 +19,9 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 ## 📸 Fotografía del Equipo  
 <p align="center">
-<img width="1408" height="768" alt="imagen_alumnos_IA" src="https://github.com/user-attachments/assets/3829718f-51c7-4d00-b262-ef37f178f059" />
+<img width="1408" height="768" alt="imagen_alumnos_IA" src="https://github.com/leydihuamani-cell/FdD_Equipo_08/blob/1c853f424200f1da994c5930790ee5cbcdc30b19/Recursos/Im%C3%A1genes/fotogrupal.png" />
   <em>Figura 1. Fotografía del equipo 8</em>
 </p>
-
 ---
 
 ## 👥 Integrantes del Equipo  
