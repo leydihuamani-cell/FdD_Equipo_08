@@ -9,11 +9,9 @@ Somos el **Equipo 08** del curso **Fundamento de Diseño 2026-2**, conformado po
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
-- ODS 3: Salud y Bienestar  
-- ODS 6: Agua Limpia y Saneamiento  
-- ODS 9: Industria, Innovación e Infraestructura  
+- ODS 14: Vida Submarina
 - ODS 11: Ciudades y Comunidades Sostenibles  
-- ODS 13: Acción por el Clima  
+- ODS 12: Producción y Consumo Responsables
 
 ---
 
