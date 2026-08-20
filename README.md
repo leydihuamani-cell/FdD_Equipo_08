@@ -29,7 +29,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
 | <img src="https://github.com/leydihuamani-cell/FdD_Equipo_08/blob/d991aa1224ef8ad016c210ef61b251271ba27ad8/Recursos/Im%C3%A1genes/integrante1.jpeg" width="90"/> | **Hernandez Aguilar Xiomara** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Inoñan Alejo Patricia** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="https://github.com/leydihuamani-cell/FdD_Equipo_08/blob/153a9e032adb8ada6452974f32266de5379e6c6b/Recursos/Im%C3%A1genes/patricia.jpeg" width="90"/> | **Inoñan Alejo Patricia** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
 | <img src="https://github.com/leydihuamani-cell/FdD_Equipo_08/blob/79362ccbeb73ca8eb00db3ba16a13bda038919b1/Recursos/Im%C3%A1genes/briset.jpeg" width="90"/> | **Garcia Vinces Brisette** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
 | <img src="https://github.com/leydihuamani-cell/FdD_Equipo_08/blob/af52a505adff98191e6062b6e784f21ceda69b43/Recursos/Im%C3%A1genes/andrea.jpeg" width="90"/> | **Torres Sanchez Andrea** | Encargado/a de documentación | Comunicación científica, redacción técnica |
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Huamani Huamani Leydi** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
