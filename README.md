@@ -23,6 +23,8 @@ De aquí a 2030, reducir considerablemente la generación de desechos mediante a
 
 Esta meta se relaciona con la problemática debido a que una adecuada separación y clasificación de los residuos reciclables puede facilitar su recuperación, aprovechamiento y reincorporación a los procesos de reciclaje.
 
+<img src="https://github.com/leydihuamani-cell/FdD_Equipo_08/blob/c0bcd2b7f77935459d92708a5749d9483eb50c86/Recursos/Im%C3%A1genes/ods%2012.jpeg" width="90"/>
+
 **ODS 11: Ciudades y Comunidades Sostenibles**
 
 ODS secundario
