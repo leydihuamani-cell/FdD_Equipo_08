@@ -38,6 +38,11 @@ Esta meta se relaciona con la problemática porque mejorar la separación, clasi
 
 <img src="https://github.com/leydihuamani-cell/FdD_Equipo_08/blob/3acaed5c010c23d95eb353cecffbad1353967aa3/Recursos/Im%C3%A1genes/ods11.jpeg" width="90"/>
 
+##Problemática que buscamos abordar
+
+En los centros de acopio, una parte de los residuos reciclables como plástico, papel, cartón y metal llega mezclada, dificultando su adecuada segregación y aprovechamiento. Esta situación limita el reciclaje y la reutilización de materiales que podrían reincorporarse a procesos productivos, contribuyendo a una mayor generación de desechos y a una gestión menos sostenible de los residuos. Asimismo, la gestión inadecuada de estos residuos puede incrementar el impacto ambiental de las ciudades.
+
+
 ---
 
 ## 📸 Fotografía del Equipo  
