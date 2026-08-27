@@ -8,11 +8,31 @@
 Somos el **Equipo 08** del curso **Fundamento de Diseño 2026-2**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
 
-Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
-- ODS 14: Vida Submarina
-- ODS 11: Ciudades y Comunidades Sostenibles  
-- ODS 12: Producción y Consumo Responsables
+**Objetivos de Desarrollo Sostenible (ODS)**
 
+La problemática seleccionada se relaciona principalmente con los siguientes Objetivos de Desarrollo Sostenible:
+
+**ODS 12: Producción y Consumo Responsables**
+
+ODS principal
+
+Es el ODS que se relaciona directamente con la problemática, ya que promueve una mejor gestión, reducción, recuperación y aprovechamiento de los residuos.
+
+Meta 12.5:
+De aquí a 2030, reducir considerablemente la generación de desechos mediante actividades de prevención, reducción, reciclado y reutilización.
+
+Esta meta se relaciona con la problemática debido a que una adecuada separación y clasificación de los residuos reciclables puede facilitar su recuperación, aprovechamiento y reincorporación a los procesos de reciclaje.
+
+**ODS 11: Ciudades y Comunidades Sostenibles**
+
+ODS secundario
+
+Se relaciona con la problemática debido a que una adecuada gestión de los residuos contribuye a reducir el impacto ambiental de las ciudades y favorece el desarrollo de espacios urbanos más sostenibles.
+
+Meta 11.6:
+De aquí a 2030, reducir el impacto ambiental negativo per cápita de las ciudades, prestando especial atención a la gestión de los desechos municipales y de otro tipo.
+
+Esta meta se relaciona con la problemática porque mejorar la separación, clasificación y aprovechamiento de los residuos reciclables puede contribuir a una gestión más eficiente de los residuos generados en las ciudades.
 ---
 
 ## 📸 Fotografía del Equipo  
