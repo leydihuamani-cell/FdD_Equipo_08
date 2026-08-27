@@ -37,6 +37,7 @@ De aquí a 2030, reducir el impacto ambiental negativo per cápita de las ciudad
 <img src="https://github.com/leydihuamani-cell/FdD_Equipo_08/blob/3acaed5c010c23d95eb353cecffbad1353967aa3/Recursos/Im%C3%A1genes/ods11.jpeg" width="90"/>
 
 Esta meta se relaciona con la problemática porque mejorar la separación, clasificación y aprovechamiento de los residuos reciclables puede contribuir a una gestión más eficiente de los residuos generados en las ciudades.
+
 ---
 
 ## 📸 Fotografía del Equipo  
