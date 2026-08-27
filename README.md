@@ -65,4 +65,4 @@ En los centros de acopio, una parte de los residuos reciclables como plástico, 
 ---
 
 ## 📌 Resumen Final  
-Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.  
+Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.  Nuestro trabajo busca contribuir a una gestión más responsable de los residuos, fomentando su correcta separación, recuperación y aprovechamiento, en concordancia principalmente con el ODS 12 y complementándose con el ODS 11.
