@@ -40,7 +40,20 @@ Esta meta se relaciona con la problemática porque mejorar la separación, clasi
 
 ## Problemática que buscamos abordar
 
-En los centros de acopio, una parte de los residuos reciclables como plástico, papel, cartón y metal llega mezclada, dificultando su adecuada segregación y aprovechamiento. Esta situación limita el reciclaje y la reutilización de materiales que podrían reincorporarse a procesos productivos, contribuyendo a una mayor generación de desechos y a una gestión menos sostenible de los residuos. Asimismo, la gestión inadecuada de estos residuos puede incrementar el impacto ambiental de las ciudades.
+En los centros de acopio y otros puntos de recolección, los residuos reciclables como plástico, papel, cartón y metal pueden llegar mezclados, lo que dificulta su identificación, separación y posterior aprovechamiento. Esta situación representa un problema para la gestión eficiente de los residuos, debido a que los materiales que podrían ser recuperados y reincorporados a procesos productivos pueden terminar perdiendo valor.
+
+La magnitud del problema se evidencia a nivel mundial. Según el Programa de las Naciones Unidas para el Medio Ambiente (PNUMA, 2024), la generación de residuos sólidos municipales alcanzó aproximadamente 2,1 mil millones de toneladas en 2023 y se proyecta que llegue a 3,8 mil millones de toneladas para 2050. Además, una gestión inadecuada de los residuos genera impactos ambientales, económicos y sociales.
+
+En este contexto, la correcta separación y recuperación de los residuos constituye una oportunidad para avanzar hacia una economía circular, donde los materiales puedan mantenerse dentro del ciclo productivo durante mayor tiempo (PNUMA, 2024).
+
+Un referente de esta problemática puede observarse en Alemania, donde existen sistemas automatizados para la devolución y reconocimiento de envases. Por ejemplo, el sistema DPG utiliza máquinas de devolución que identifican los envases mediante elementos como la marcación DPG y el número de artículo (GTIN) (Deutsche Pfandsystem GmbH [DPG], s. f.). Asimismo, REWE cuenta con un sistema de devolución de envases reutilizables mediante máquinas de depósito (REWE, s. f.).
+
+A partir de este referente, nuestro proyecto busca adaptar el concepto de identificación y clasificación automatizada a los residuos reciclables, desarrollando una estación capaz de recibir materiales, identificarlos y facilitar su separación en categorías como plástico, papel, cartón y metal. De esta manera, se busca disminuir la mezcla de residuos en los centros de acopio y facilitar su recuperación y aprovechamiento.
+
+Referencias
+Deutsche Pfandsystem GmbH. (s. f.). Das DPG Pfandsystem. https://dpg-pfandsystem.de/
+Programa de las Naciones Unidas para el Medio Ambiente. (2024). Global Waste Management Outlook 2024. https://www.unep.org/resources/global-waste-management-outlook-2024
+REWE. (s. f.). Einfach Mehrweg. https://nachhaltigkeit.rewe.de/verpackungen/mehrweg/einfachmehrweg
 
 
 ---
