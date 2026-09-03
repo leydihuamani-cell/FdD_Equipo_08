@@ -1,0 +1,24 @@
+# Entregable 02
+
+> **Estado:** pendiente de desarrollo.
+
+## Datos de la entrega
+
+- **Fecha:** por completar.
+- **Integrantes participantes:** por completar.
+
+## Objetivo
+
+Describir el objetivo indicado por el equipo docente.
+
+## Desarrollo
+
+Incorporar aquí el contenido, las decisiones y las evidencias del entregable.
+
+## Resultados y conclusiones
+
+Resumir los resultados obtenidos y los siguientes pasos.
+
+## Referencias
+
+Agregar las fuentes utilizadas, si corresponde.
