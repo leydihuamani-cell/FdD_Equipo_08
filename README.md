@@ -52,11 +52,11 @@ A partir de este referente, nuestro proyecto busca adaptar el concepto de identi
 
 Referencias
 
-Programa de las Naciones Unidas para el Medio Ambiente. Global Waste Management Outlook 2024 [Internet]. Nairobi: UNEP; 2024 [citado 3 sep 2026]. Disponible en: https://www.unep.org/resources/global-waste-management-outlook-2024
+1. Programa de las Naciones Unidas para el Medio Ambiente. Global Waste Management Outlook 2024 [Internet]. Nairobi: UNEP; 2024 [citado 3 sep 2026]. Disponible  en: https://www.unep.org/resources/global-waste-management-outlook-2024
 
-Deutsche Pfandsystem GmbH. Das DPG Pfandsystem [Internet]. Berlín: DPG; [citado 3 sep 2026]. Disponible en: https://dpg-pfandsystem.de/
+2. Deutsche Pfandsystem GmbH. Das DPG Pfandsystem [Internet]. Berlín: DPG; [citado 3 sep 2026]. Disponible en: https://dpg-pfandsystem.de/
 
-REWE. Einfach Mehrweg [Internet]. Köln: REWE; [citado 3 sep 2026]. Disponible en: https://nachhaltigkeit.rewe.de/verpackungen/mehrweg/einfachmehrweg
+3. REWE. Einfach Mehrweg [Internet]. Köln: REWE; [citado 3 sep 2026]. Disponible en: https://nachhaltigkeit.rewe.de/verpackungen/mehrweg/einfachmehrweg
 
 
 ---
