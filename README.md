@@ -51,8 +51,11 @@ Un referente de esta problemática puede observarse en Alemania, donde existen s
 A partir de este referente, nuestro proyecto busca adaptar el concepto de identificación y clasificación automatizada a los residuos reciclables, desarrollando una estación capaz de recibir materiales, identificarlos y facilitar su separación en categorías como plástico, papel, cartón y metal. De esta manera, se busca disminuir la mezcla de residuos en los centros de acopio y facilitar su recuperación y aprovechamiento.
 
 Referencias
+
 Programa de las Naciones Unidas para el Medio Ambiente. Global Waste Management Outlook 2024 [Internet]. Nairobi: UNEP; 2024 [citado 3 sep 2026]. Disponible en: https://www.unep.org/resources/global-waste-management-outlook-2024
+
 Deutsche Pfandsystem GmbH. Das DPG Pfandsystem [Internet]. Berlín: DPG; [citado 3 sep 2026]. Disponible en: https://dpg-pfandsystem.de/
+
 REWE. Einfach Mehrweg [Internet]. Köln: REWE; [citado 3 sep 2026]. Disponible en: https://nachhaltigkeit.rewe.de/verpackungen/mehrweg/einfachmehrweg
 
 
