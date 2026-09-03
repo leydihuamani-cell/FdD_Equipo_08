@@ -8,6 +8,12 @@
 
 ### Artículo científico 3
 
+| N.° | Recurso | Tema | Aporte al proyecto | Variables/Caracteristicas | Valores/Rango |
+|---:|---|---|---|---|---|
+| 1 |  |  |  |  |  |
+| 2 |  | |  |  |  |
+| 3 |  |  |  |  |  |
+
 ## 2. Patentes
 
 ### Patente 1
@@ -15,6 +21,13 @@
 ### Patente 2
 
 ### Patente 3
+
+| N.° | Recurso | Tema | Aporte al proyecto | Variables/Caracteristicas | Valores/Rango |
+|---:|---|---|---|---|---|
+| 1 |  |  |  |  |  |
+| 2 |  | |  |  |  |
+| 3 |  |  |  |  |  |
+
 
 ## 3. Tesis
 
@@ -24,6 +37,13 @@
 
 ### Tesis 3
 
+| N.° | Recurso | Tema | Aporte al proyecto | Variables/Caracteristicas | Valores/Rango |
+|---:|---|---|---|---|---|
+| 1 |  |  |  |  |  |
+| 2 |  | |  |  |  |
+| 3 |  |  |  |  |  |
+
+
 ## 4. Productos comerciales
 
 ### Producto comercial 1
@@ -32,17 +52,16 @@
 
 ### Producto comercial 3
 
-## 5. Matriz de antecedentes
-
 | N.° | Recurso | Tema | Aporte al proyecto | Variables/Caracteristicas | Valores/Rango |
 |---:|---|---|---|---|---|
 | 1 |  |  |  |  |  |
 | 2 |  | |  |  |  |
 | 3 |  |  |  |  |  |
 
-## 6. Conclusiones
 
-## 7. Referencias bibliográficas
+## 5. Conclusiones
+
+## 6. Referencias bibliográficas
 
 ### Formato Vancouver
 
