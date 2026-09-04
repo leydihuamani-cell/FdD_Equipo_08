@@ -41,7 +41,7 @@ Esta patente aporta al proyecto la posibilidad de automatizar la recepción, ide
 
 <p align="center">
   <img 
-    src="https://github.com/leydihuamani-cell/FdD_Equipo_08/blob/edae4c640a9288fdee201ffef0095ce86f54f952/Recursos/Taller_3/patente%202.png"
+    src="https://github.com/leydihuamani-cell/FdD_Equipo_08/blob/6cb4c532ee1dbe37a51cb111d98034c9c9bfe0cc/Recursos/Taller_3/patente%202.1.png"
     width="400"
     alt="Esquema del sistema de identificación, clasificación y procesamiento de envases">
 </p>
