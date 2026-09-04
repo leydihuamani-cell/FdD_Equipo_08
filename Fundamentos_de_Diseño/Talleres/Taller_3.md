@@ -49,7 +49,7 @@ Esta propuesta aporta al proyecto un método de clasificación automática y alm
 </p>
 
 <p align="center">
-  <em> Figura 1. Esquema general del sistema inteligente. Fuente: [patente US20250058968A1](https://patents.google.com/patent/US20250058968A1/en) 
+  <em> Figura 1. Esquema general del sistema inteligente. Fuente: [patente US20250058968A1](https://patents.google.com/patent/US20250058968A1/en). 
 </p>
 
 Brimmo, Pilscheur y Glia propusieron un sistema inteligente para la clasificación automática de residuos. El dispositivo cuenta con un compartimento de recepción y un sistema de detección capaz de identificar y localizar los residuos mediante reconocimiento óptico, detección de metales, detección de peso y técnicas de inteligencia artificial. La clasificación puede considerar materiales como papel, plástico y metal. Una característica principal de la propuesta es su mecanismo de separación basado en la posición de los objetos. Después de identificar los residuos, una plataforma móvil puede inclinarse para dirigirlos hacia diferentes contenedores, mientras que mecanismos de retención mantienen en su lugar los objetos que deben ser separados posteriormente. La patente contempla incluso la clasificación simultánea de varios residuos de diferentes tipos, utilizando un sistema compacto que evita depender de grandes bandas transportadoras
