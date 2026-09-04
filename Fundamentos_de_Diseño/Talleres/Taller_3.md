@@ -52,7 +52,7 @@ Esta propuesta aporta a nuestro proyecto el uso de cámaras e inteligencia artif
 
 ## 3. Tesis
 
-### 3.1. ENKEI: Sistema de Segregación de Residuos Domésticos para Zonas Urbanas
+### 3.1. *ENKEI: Sistema de Segregación de Residuos Domésticos para Zonas Urbanas*
 
 Noborikawa Gushiken desarrolló ENKEI, una propuesta de diseño orientada a mejorar la segregación de residuos domésticos en zonas urbanas. La investigación aborda las dificultades relacionadas con la clasificación de los residuos y plantea el desarrollo de un sistema que facilite esta actividad mediante una solución de diseño centrada en el usuario.
 
