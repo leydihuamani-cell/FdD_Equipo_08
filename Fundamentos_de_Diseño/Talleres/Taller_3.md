@@ -142,7 +142,7 @@ Para el proyecto, esta tesis aporta una referencia tecnológica directa sobre el
 
 <p align="center">
  Figura 4. Biocrux Smart Bin. Fuente:
-  <a href="https://www.biocrux.co.in/smart-bin?utm_source " </a>.
+  <a href="https://www.biocrux.co.in/smart-bin?utm_source "/a>.
 </p>
 El Biocrux Smart Bin es un contenedor inteligente para la recolección diferenciada de residuos secos. Cuenta con tecnología IoT que permite monitorear su estado y recibir alertas cuando necesita ser vaciado. Además, incorpora un sistema de compactación para reducir el volumen de los residuos y tres compartimentos para facilitar su separación.
 
@@ -158,7 +158,7 @@ Su capacidad es de 60 a 100 L y está diseñado para residuos como botellas, lat
 
 <p align="center">
  Figura 5. Máquina de devolución automática TOMRA T100. Fuente:
-  <a href="https://www.tomra.com/reverse-vending/our-offering/reverse-vending-machines/tomra-t100" </a>.
+  <a href="https://www.tomra.com/reverse-vending/our-offering/reverse-vending-machines/tomra-t100"/a>.
 </p>
 La TOMRA T100 es una máquina de devolución automatizada que permite ingresar envases individualmente y reconocerlos mediante diferentes tecnologías. Utiliza reconocimiento de forma, códigos de barras, detección de metales y sistemas de visión para identificar los envases recibidos.
 
@@ -174,7 +174,7 @@ Puede procesar hasta 60 envases por minuto y está diseñada para recibir botell
 
 <p align="center">
  Figura 6. Contenedor inteligente multirresiduo. Fuente:
-  <a href="https://recicladointeligente.com/#contacto" </a>.
+  <a href="https://recicladointeligente.com/#contacto"/a>.
 </p>
 El Contenedor Inteligente Multirresiduo de Reciclado Inteligente permite realizar la recogida diferenciada mediante varios compartimentos. El sistema incorpora conectividad, detector de movimiento y monitoreo del nivel de llenado, además de generar estadísticas e informes sobre la gestión de los residuos.
 
