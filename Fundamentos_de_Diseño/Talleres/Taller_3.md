@@ -42,7 +42,7 @@ Esta propuesta aporta al proyecto un método de clasificación automática y alm
 ### 2.3. *Waste sorting apparatus and method* (US20250058968A1)
 
 <p align="center">
-  <img src="../../Recursos/Imágenes/Taller_03/articulo_01.jpg" width="700" alt="Comparación entre la estimación de volumen con modelos geométricos e imágenes de profundidad">
+  <img src="https://github.com/leydihuamani-cell/FdD_Equipo_08/blob/bca0e120019590e252e96998ca6228a32450e344/Recursos/Taller_3/patente3.jpeg">
 </p>
 <p align="center">
   <em>Figura 1. Esquema general de la máquina de vending inverso. Fuente: patente US6547055B2.</em>
