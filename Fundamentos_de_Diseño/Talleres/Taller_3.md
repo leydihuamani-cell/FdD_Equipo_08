@@ -85,9 +85,9 @@ Esta propuesta aporta al proyecto un método de clasificación automática y alm
   <a href="https://patents.google.com/patent/US20250058968A1/en">patente US20250058968A1</a>.
 </p>
 
-Brimmo, Pilscheur y Glia propusieron un sistema inteligente para la clasificación automática de residuos. El dispositivo cuenta con un compartimento de recepción y un sistema de detección capaz de identificar y localizar los residuos mediante reconocimiento óptico, detección de metales, detección de peso y técnicas de inteligencia artificial. La clasificación puede considerar materiales como papel, plástico y metal.
+Brimmo, Pilscheur y Glia propusieron un sistema inteligente para la clasificación automática de residuos. El dispositivo cuenta con un compartimento de recepción y un sistema de detección capaz de identificar y localizar los residuos mediante reconocimiento óptico, detección de metales, detección de peso y técnicas de inteligencia artificial. La clasificación puede considerar materiales como papel, plástico y metal [6].
 
-Una característica principal de la propuesta es su mecanismo de separación basado en la posición de los objetos. Después de identificar los residuos, una plataforma móvil puede inclinarse para dirigirlos hacia diferentes contenedores, mientras que mecanismos de retención mantienen en su lugar los objetos que deben separarse posteriormente. La patente contempla incluso la clasificación simultánea de varios residuos de diferentes tipos mediante un sistema compacto que evita depender de grandes bandas transportadoras. [6]
+Una característica principal de la propuesta es su mecanismo de separación basado en la posición de los objetos. Después de identificar los residuos, una plataforma móvil puede inclinarse para dirigirlos hacia diferentes contenedores, mientras que mecanismos de retención mantienen en su lugar los objetos que deben separarse posteriormente. La patente contempla incluso la clasificación simultánea de varios residuos de diferentes tipos mediante un sistema compacto que evita depender de grandes bandas transportadoras [6].
 
 Esta propuesta aporta a nuestro proyecto el uso de cámaras e inteligencia artificial para identificar residuos y mecanismos automatizados para su separación. Por ello, sirve como referencia para diseñar el sistema de clasificación de plástico, papel, cartón y metal de nuestro prototipo.
 
@@ -117,9 +117,9 @@ El trabajo integra la caracterización de residuos sólidos (plástico, papel, c
 Para el proyecto, esta tesis aporta una fundamentación directa sobre el contexto peruano y valida la necesidad de implementar estaciones de recepción tecnológicas de menor escala que automaticen la recolección selectiva y generen datos trazables para optimizar la logística del reciclaje.
 
 ### 3.3. Contenedor inteligente para la gestión de residuos sólidos en el complejo universitario de la Universidad Estatal del Sur de Manabí.
-Pisco Gómez y Banguera Zambrano desarrollaron una investigación orientada a mejorar la gestión de residuos sólidos mediante el diseño de un contenedor inteligente. La propuesta aborda la problemática de la inadecuada clasificación de residuos, planteando el uso de sensores para identificar y separar diferentes materiales reciclables.
+Pisco Gómez y Banguera Zambrano desarrollaron una investigación orientada a mejorar la gestión de residuos sólidos mediante el diseño de un contenedor inteligente. La propuesta aborda la problemática de la inadecuada clasificación de residuos, planteando el uso de sensores para identificar y separar diferentes materiales reciclables [9].
 
-El trabajo integra la clasificación automatizada de residuos como plástico, vidrio, papel y cartón mediante tecnología inteligente, buscando reducir la manipulación y separación manual. Asimismo, la propuesta busca optimizar la gestión de los residuos, disminuir el impacto ambiental y fomentar prácticas de reciclaje dentro del entorno universitario.
+El trabajo integra la clasificación automatizada de residuos como plástico, vidrio, papel y cartón mediante tecnología inteligente, buscando reducir la manipulación y separación manual. Asimismo, la propuesta busca optimizar la gestión de los residuos, disminuir el impacto ambiental y fomentar prácticas de reciclaje dentro del entorno universitario [9].
 
 Para el proyecto, esta tesis aporta una referencia tecnológica directa sobre el uso de sensores para la identificación y clasificación de materiales reciclables. Además, sirve como base para complementar esta función con el pesaje y registro de datos propuesto, permitiendo cuantificar los residuos recibidos y generar información útil para mejorar su almacenamiento y aprovechamiento.
 
@@ -164,3 +164,5 @@ Cuenta con cinco bocas modulares y una capacidad de 67,5 L por compartimento. Pa
 5. Bardugo Y, Porat L. Reverse vending system and method [Internet]. International patent WO2023195003A1. 2023 [citado 3 de septiembre de 2026]. Disponible en: https://patents.google.com/patent/WO2023195003A1/en
 6. BRIMMO A, PILSCHEUR B, GLIA W. Waste sorting apparatus and method [Internet]. US20250058968A1, 2025 [citado 3 de septiembre de 2026]. Disponible en: https://patents.google.com/patent/US20250058968A1/en 
 7. 	Gushiken N, Karina M, Rojas P, Felipe F, Soracco L, Gonzalo R. TRABAJO DE INVESTIGACIÓN PARA OBTENER EL GRADO DE BACHILLER EN ARTE CON MENCIÓN EN DISEÑO INDUSTRIAL.
+8. 	l
+9. 	Banguera Zambrano JP. CONTENEDOR INTELIGENTE PARA LA GESTIÓN DE RESIDUOS SÓLIDOS EN EL COMPLEJO UNIVERSITARIO DE LA UNIVERSIDAD ESTATAL DEL SUR DE MANABÍ. [bachelorThesis] [Internet]. Jipijapa - Unesum; 2025 [citado 3 de septiembre de 2026]. Disponible en: http://repositorio.unesum.edu.ec/handle/53000/8186 
