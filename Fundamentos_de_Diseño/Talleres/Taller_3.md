@@ -147,33 +147,10 @@ El Contenedor Inteligente Multirresiduo de Reciclado Inteligente permite realiza
 
 Cuenta con cinco bocas modulares y una capacidad de 67,5 L por compartimento. Para nuestro proyecto, sirve como referencia para la separación multirresiduo, conectividad y gestión de información.
 
-Así queda parejo con el ejemplo que te dieron: 2 párrafos por producto, información técnica importante y al final de cada uno se explica claramente qué toman como referencia para su proyecto.
-
-| N.° | Recurso | Tema | Aporte al proyecto | Variables/Características | Valores/Rango |
-| 1 | Biocrux Smart Bin | Recolección y manejo inteligente de residuos | Sirve como referente para incorporar un sistema de recolección automatizada, reducción del volumen de residuos y supervisión a distancia, adaptado a una escala menor. | Sistema IoT, monitoreo en línea, 3 compartimentos, compactación, sensor/motor de apertura y alerta de llenado. | Capacidad: 60–100 L; peso: 250 kg; espesor: 2 mm. |
-| 2 | TOMRA T100 | Identificación y recepción automatizada de envases | Aporta como referencia para implementar la recepción e identificación individual de residuos, permitiendo reconocer diferentes características antes de su clasificación. | Reconocimiento 360°, forma, detección de metales y reconocimiento mediante visión. | Hasta 60 envases/minuto y 21 cajas/minuto. Botellas: 50–130 mm de diámetro y 85–380 mm de altura. |
-| 3 |Contenedor inteligente multirresiduo – Reciclado Inteligente  | Gestión y separación multirresiduo | Sirve como referencia para integrar diferentes categorías de residuos en un mismo sistema, junto con conectividad y recopilación de información para facilitar su gestión. | 5 bocas modulares, detector de movimiento, conectividad, actualización remota, alerta de llenado y generación de estadísticas. | 5 × 67,5 L de capacidad; pantalla de 50"; conexión mediante GSM; dimensiones: 1160 × 640 × 1900 mm. |### Biocrux Smart Bin
-El Biocrux Smart Bin es un contenedor inteligente para la recolección diferenciada de residuos secos. Cuenta con tecnología IoT que permite monitorear su estado y recibir alertas cuando necesita ser vaciado. Además, incorpora un sistema de compactación para reducir el volumen de los residuos y tres compartimentos para facilitar su separación.
-
-Su capacidad es de 60 a 100 L y está diseñado para residuos como botellas, latas, bolsas y envases Tetra Pak. Para nuestro proyecto, sirve como referencia principalmente para la recolección, compactación y monitoreo inteligente de residuos.
-
-### TOMRA T100
-La TOMRA T100 es una máquina de devolución automatizada que permite ingresar envases individualmente y reconocerlos mediante diferentes tecnologías. Utiliza reconocimiento de forma, códigos de barras, detección de metales y sistemas de visión para identificar los envases recibidos.
-
-Puede procesar hasta 60 envases por minuto y está diseñada para recibir botellas, latas, envases de vidrio y cajas. Para nuestro proyecto, representa una referencia para la identificación automatizada y recepción individual de los residuos.
-
-### Reciclado Inteligente
-El Contenedor Inteligente Multirresiduo de Reciclado Inteligente permite realizar la recogida diferenciada mediante varios compartimentos. El sistema incorpora conectividad, detector de movimiento y monitoreo del nivel de llenado, además de generar estadísticas e informes sobre la gestión de los residuos.
-
-Cuenta con cinco bocas modulares y una capacidad de 67,5 L por compartimento. Para nuestro proyecto, sirve como referencia para la separación multirresiduo, conectividad y gestión de información.
-
-Así queda parejo con el ejemplo que te dieron: 2 párrafos por producto, información técnica importante y al final de cada uno se explica claramente qué toman como referencia para su proyecto.
-
 | N.° | Recurso | Tema | Aporte al proyecto | Variables/Características | Valores/Rango |
 | 1 | Biocrux Smart Bin | Recolección y manejo inteligente de residuos | Sirve como referente para incorporar un sistema de recolección automatizada, reducción del volumen de residuos y supervisión a distancia, adaptado a una escala menor. | Sistema IoT, monitoreo en línea, 3 compartimentos, compactación, sensor/motor de apertura y alerta de llenado. | Capacidad: 60–100 L; peso: 250 kg; espesor: 2 mm. |
 | 2 | TOMRA T100 | Identificación y recepción automatizada de envases | Aporta como referencia para implementar la recepción e identificación individual de residuos, permitiendo reconocer diferentes características antes de su clasificación. | Reconocimiento 360°, forma, detección de metales y reconocimiento mediante visión. | Hasta 60 envases/minuto y 21 cajas/minuto. Botellas: 50–130 mm de diámetro y 85–380 mm de altura. |
 | 3 |Contenedor inteligente multirresiduo – Reciclado Inteligente  | Gestión y separación multirresiduo | Sirve como referencia para integrar diferentes categorías de residuos en un mismo sistema, junto con conectividad y recopilación de información para facilitar su gestión. | 5 bocas modulares, detector de movimiento, conectividad, actualización remota, alerta de llenado y generación de estadísticas. | 5 × 67,5 L de capacidad; pantalla de 50"; conexión mediante GSM; dimensiones: 1160 × 640 × 1900 mm. |
-
 ## 5. Conclusiones
 
 ## 6. Referencias bibliográficas
