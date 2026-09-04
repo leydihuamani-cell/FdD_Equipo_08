@@ -135,7 +135,7 @@ Para el proyecto, esta tesis aporta una fundamentación directa sobre el context
 |---:|---|---|---|---|---|
 | 1 | Noborikawa Gushiken, ENKEI: Sistema de Segregación de Residuos Domésticos para Zonas Urbanas | Segregación de residuos domésticos en zonas urbanas. | Propone un sistema de diseño orientado a facilitar la separación y organización de los residuos. | Segregación, clasificación de residuos, interacción con el usuario, diseño del sistema y gestión de residuos. | Validación con usuarios finales; la información disponible no especifica valores de precisión o cantidad de residuos procesados. |
 | 2 | Díaz Reyes et al., Smart Trash, contenedores inteligentes de segregación para mejorar los hábitos de reciclaje |Contenedor inteligente y gestión de residuos en el contexto peruano.  |Presenta una propuesta de acopio asistido tecnológicamente que automatiza la segregación y registra datos de masa y volumen.  |Tipos de residuo (plástico, papel, vidrio), tasa de contaminación cruzada, volumen recolectado.  |Enfocada en reducir la mezcla de materiales y mejorar la trazabilidad del acopio. |
-| 3 |  |  |  | |  |
+| 3 |  | Gestión y clasificación inteligente de residuos sólidos mediante un contenedor automatizado. |  | |  |
 
 ## 4. Productos comerciales
 
