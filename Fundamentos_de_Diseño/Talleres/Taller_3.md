@@ -30,9 +30,16 @@ Esta patente aporta al proyecto la posibilidad de automatizar la recepción, ide
 
 ### 2.2. *Reverse Vending System and Method* (WO2023195003A1)
 
-<!-- Arrastrar aquí una imagen o esquema de la patente WO2023195003A1 -->
+<p align="center">
+  <img 
+    src="https://github.com/leydihuamani-cell/FdD_Equipo_08/blob/edae4c640a9288fdee201ffef0095ce86f54f952/Recursos/Taller_3/patente%202.png"
+    width="400"
+    alt="Esquema del sistema de identificación, clasificación y procesamiento de envases">
+</p>
 
-*Figura 5. Esquema del sistema de identificación, clasificación y procesamiento de envases. Fuente: [patente WO2023195003A1](https://patents.google.com/patent/WO2023195003A1/en).*
+<p align="center">
+  <em>*Figura 5. Esquema del sistema de identificación, clasificación y procesamiento de envases. Fuente: [patente WO2023195003A1](https://patents.google.com/patent/WO2023195003A1/en)*
+</p>
 
 Bardugo y Porat propusieron un sistema de vending inverso capaz de recibir recipientes de distintos materiales, como plástico, vidrio y metal. El sistema puede emplear cámaras, lectores de códigos y sensores para reconocer las características de cada envase antes de dirigirlo al mecanismo de procesamiento correspondiente [2].
 Después de la identificación, los materiales son clasificados, triturados o compactados y almacenados en depósitos independientes. Esta separación evita la mezcla de los residuos y facilita su posterior aprovechamiento. Además, el sistema puede registrar datos de cada operación, como la fecha, hora, identificación del usuario y tipo de recipiente procesado [2].
