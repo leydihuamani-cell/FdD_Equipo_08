@@ -18,9 +18,18 @@
 
 ### 2.1. *Reverse Vending Machine* (US6547055B2)
 
-![Esquema de la máquina de vending inverso](https://patentimages.storage.googleapis.com/85/1c/6a/8a992bfab66183/US06547055-20030415-D00000.png)
 
-*Figura 4. Esquema general de la máquina de vending inverso. Fuente: [patente US6547055B2](https://patents.google.com/patent/US6547055B2/en).*
+
+<p align="center">
+  <img 
+    src="https://github.com/leydihuamani-cell/FdD_Equipo_08/blob/5290e572e73433d6c07d498dead7febc7bd09149/Recursos/Taller_3/patente%201.png"
+    width="400"
+    alt="Esquema del sistema de identificación, clasificación y procesamiento de envases">
+</p>
+
+<p align="center">
+  <em>*Figura 4. Esquema general de la máquina de vending inverso. Fuente: [patente US6547055B2](https://patents.google.com/patent/US6547055B2/en)*
+</p>
 
 Coyne et al. desarrollaron una máquina de vending inverso destinada a recibir y procesar envases reciclables de bebidas. El sistema cuenta con una zona de ingreso que permite depositar varios recipientes, un mecanismo que los transporta individualmente y un escáner óptico que lee sus códigos para determinar si son aceptados o rechazados [1].
 Después de identificar cada envase, un procesador registra la cantidad aceptada y activa un mecanismo de separación. Los recipientes válidos son enviados al depósito correspondiente, mientras que los no aceptados se dirigen hacia una salida de devolución. La máquina también puede incorporar un mecanismo de compactación para reducir el volumen ocupado y emitir un comprobante o cupón para el usuario.
