@@ -41,11 +41,11 @@ Esta propuesta aporta al proyecto un método de clasificación automática y alm
 
 ### 2.3. *Waste sorting apparatus and method* (US20250058968A1)
 
-| N.° | Recurso | Tema | Aporte al proyecto | Variables/Caracteristicas | Valores/Rango |
+| N.° | Recurso | Tema | Aporte | Variables o características | Valores o rangos |
 |---:|---|---|---|---|---|
-| 1 |  |  |  |  |  |
-| 2 |  | |  |  |  |
-| 3 |  |  |  |  |  |
+| 1 | Coyne et al., *Reverse Vending Machine* (US6547055B2) [1] | Recepción, identificación y clasificación automática de envases reciclables. | Demuestra que los envases pueden identificarse mediante códigos ópticos, separarse y compactarse automáticamente. | Código óptico, material, cantidad de envases, aceptación o rechazo, mecanismo de transporte y compactación. | Dos resultados de clasificación: aceptado o rechazado; conteo por tipo de envase; recepción individual o masiva; no establece una capacidad numérica general. |
+| 2 | Bardugo y Porat, *Reverse Vending System and Method* (WO2023195003A1) [2] | Identificación y separación de recipientes de plástico, vidrio y metal. | Aporta un sistema que detecta, clasifica, procesa y almacena separadamente los residuos, evitando la mezcla de materiales. | Material, peso, forma, conductividad, código de barras, velocidad de ingreso, altura, ruido y tamaño de trituración. | ≥45 envases/min; ingreso a aproximadamente 1200 mm; ruido promedio <60 dBA; plástico: 10–20 mm; vidrio y aluminio: 20–40 mm. |
+| 3 | | |  | | |
 
 
 ## 3. Tesis
