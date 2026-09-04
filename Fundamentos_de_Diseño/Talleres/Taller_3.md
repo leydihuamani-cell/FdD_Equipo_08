@@ -3,6 +3,9 @@
 ## 1. Artículos científicos
 
 ### Artículo científico 1
+Autores: Rosalia Castellano, Gabriella De Bernardo, Gennaro Punzo.
+Año: 2024
+Para evaluar el desempeño de los países, los autores utilizan el Análisis Envolvente de Datos (DEA), considerando indicadores relacionados con la huella material, consumo de materiales, residuos peligrosos, recuperación de residuos municipales, informes de sostenibilidad empresarial, compras públicas sostenibles, educación para el desarrollo sostenible, turismo y subsidios a combustibles fósiles. Los resultados muestran diferencias importantes entre los países y señalan que, en general, los miembros, socios y candidatos de la OCDE presentan mejores niveles de eficiencia debido a políticas ambientales más desarrolladas, tecnologías, infraestructura y cooperación internacional. En el caso de Perú, el estudio registra una puntuación de eficiencia de 0,627, evidenciando oportunidades de mejora, especialmente en la recuperación de residuos municipales, la educación para el desarrollo sostenible, el turismo sostenible y la reducción de subsidios a combustibles fósiles
 
 ### Artículo científico 2
 
