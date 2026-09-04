@@ -102,13 +102,18 @@ Para nuestra propuesta, este antecedente puede servir como referencia para defin
 
 ### Tesis 2
 
-### Tesis 3
+### 3.3. Smart Trash, contenedores inteligentes de segregación para mejorar los hábitos de reciclaje
+Díaz Reyes et al. desarrollaron en la Pontificia Universidad Católica del Perú una investigación para obtener el grado de Magíster en Administración Estratégica de Empresas. La propuesta aborda la problemática de la baja tasa de reciclaje en el Perú y la alta tasa de contaminación cruzada en el origen, planteando el diseño de un sistema de contenedores inteligentes denominado Smart Trash.
+
+El trabajo integra la caracterización de residuos sólidos (plástico, papel, cartón y vidrio) con tecnología de clasificación asistida en el punto de depósito, reduciendo los errores propios de la segregación manual. Asimismo, el sistema plantea la captura y centralización de datos sobre los volúmenes depositados, permitiendo monitorear métricas de acopio y generar reportes sobre la tasa de recuperación de materiales en entornos urbanos y corporativos.
+
+Para el proyecto, esta tesis aporta una fundamentación directa sobre el contexto peruano y valida la necesidad de implementar estaciones de recepción tecnológicas de menor escala que automaticen la recolección selectiva y generen datos trazables para optimizar la logística del reciclaje.
 
 | N.° | Recurso | Tema | Aporte al proyecto | Variables/Características | Valores/Rango |
 |---:|---|---|---|---|---|
 | 1 | Noborikawa Gushiken, ENKEI: Sistema de Segregación de Residuos Domésticos para Zonas Urbanas | Segregación de residuos domésticos en zonas urbanas. | Propone un sistema de diseño orientado a facilitar la separación y organización de los residuos. | Segregación, clasificación de residuos, interacción con el usuario, diseño del sistema y gestión de residuos. | Validación con usuarios finales; la información disponible no especifica valores de precisión o cantidad de residuos procesados. |
 | 2 |  |  |  |  |  |
-| 3 |  |  |  |  |  |
+| 3 | Díaz Reyes et al., Smart Trash, contenedores inteligentes de segregación para mejorar los hábitos de reciclaje |Contenedor inteligente y gestión de residuos en el contexto peruano.  | Presenta una propuesta de acopio asistido tecnológicamente que automatiza la segregación y registra datos de masa y volumen. |Tipos de residuo (plástico, papel, vidrio), tasa de contaminación cruzada, volumen recolectado.  |Enfocada en reducir la mezcla de materiales y mejorar la trazabilidad del acopio.  |
 
 ## 4. Productos comerciales
 
