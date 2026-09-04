@@ -5,36 +5,23 @@
 ### Artículo científico 1
 Sustainable Well-Being and Sustainable Consumption and Production: An Efficiency Analysis of Sustainable Development Goal 12. 
 
-Autores: Rosalia Castellano, Gabriella De Bernardo, Gennaro Punzo.
-
-Año: 2024
-
-
 Para evaluar el desempeño de los países, los autores utilizan el Análisis Envolvente de Datos (DEA), considerando indicadores relacionados con la huella material, consumo de materiales, residuos peligrosos, recuperación de residuos municipales, informes de sostenibilidad empresarial, compras públicas sostenibles, educación para el desarrollo sostenible, turismo y subsidios a combustibles fósiles. Los resultados muestran diferencias importantes entre los países y señalan que, en general, los miembros, socios y candidatos de la OCDE presentan mejores niveles de eficiencia debido a políticas ambientales más desarrolladas, tecnologías, infraestructura y cooperación internacional. En el caso de Perú, el estudio registra una puntuación de eficiencia de 0,627, evidenciando oportunidades de mejora, especialmente en la recuperación de residuos municipales, la educación para el desarrollo sostenible, el turismo sostenible y la reducción de subsidios a combustibles fósiles
 
 ### Artículo científico 2
 The SDG accelerator: Circular economy solutions through efficient sustainable consumption.
- 
-Autores: Anupam Khajuria, Prabhat Verma, Atienza Vella, Daniela Zanini-Freitag,  Hao Xin, Indu K. Murthy, Jatinder K. Arora, Kamani Sylva, Lakshmi Menon, Sushma Pardeshi, Ulrich Kral.
-
-Año: 2025
 
 La economía circular busca reducir el desperdicio y mantener los recursos en uso durante el mayor tiempo posible mediante la reducción, reutilización, reparación, reciclaje y remanufactura. Para lograrlo, es importante promover un consumo y una producción sostenibles, diseñar productos duraderos, reparables y reciclables, mejorar la gestión de residuos y utilizar nuevas tecnologías. También es fundamental la educación ambiental para cambiar los hábitos de consumo y aumentar la participación de las comunidades. Además, se requiere la colaboración entre gobiernos, empresas, instituciones educativas y ciudadanos, junto con políticas públicas e infraestructura adecuada. Estas acciones contribuyen especialmente al ODS 12, relacionado con la producción y el consumo responsables, y al ODS 4, enfocado en una educación de calidad.
 
 ### Artículo científico 3
 Estimation of the valorization potential of municipal solid waste under a bioeconomy approach: contribution to the achievement of SDG 11 and 12 in the city of Chachapoyas, Amazonas, Peru.
 
-Autores: Percy Zuta Castillo, Yesica Montenegro Santillán, Wildor Gosgot Angeles, Carla M. Ordinola Ramírez, Miguel Ángel Barrena Gurbillón.
-
-Año: 2025
-
 El estudio señala que la inadecuada gestión de residuos genera problemas ambientales, sociales y económicos, por lo que es necesario mejorar su separación, recuperación y aprovechamiento. Para conocer la composición de los residuos se realizó una caracterización en hogares y establecimientos, identificando que el 41.75 % corresponde a residuos orgánicos y el 15.3 % a residuos inorgánicos reciclables, entre los que destacan plástico, cartón y papel. Los resultados muestran que mediante procesos de separación, reciclaje y compostaje es posible reducir la cantidad de residuos enviados a los botaderos, generar beneficios económicos y disminuir las emisiones de CO₂. En 2023, el modelo permitió reducir en 50 % el volumen de residuos enviados al botadero y generar ingresos mediante la comercialización de materiales valorizados
 
 | N.° | Recurso | Tema | Aporte al proyecto | Variables/Características | Valores/Rango |
 |---:|---|---|---|---|---|
-| 1 |  |  |  |  |  |
-| 2 |  |  |  |  |  |
-| 3 |  |  |  |  |  |
+| 1 | Sustainable Well-Being and Sustainable Consumption and Production: An Efficiency Analysis of Sustainable Development Goal 12.  | Eficiencia en el logro del ODS 12 (Producción y Consumo Responsables) mediante Análisis Envolvente de Datos (DEA) | Justifica el proyecto: usa el indicador 12.5.1 (residuos reciclados), la misma meta del proyecto, y confirma que la falta de datos precisos sobre reciclaje es una limitación reconocida a nivel nacional. Respalda la idea de cuantificar residuos para gestionar mejor el ODS 12 a menor escala  | 2 inputs y 9 outputs derivados de 11 indicadores del ODS 12 (agregando los tres sub-indicadores de 12.8.1). Inputs: huella material (12.2.1) y residuos peligrosos per cápita (12.4.2). Outputs: consumo material doméstico (12.2.2), residuos municipales reciclados (12.5.1), empresas que publican informes de sostenibilidad (12.6.1), políticas de compras públicas sostenibles (12.7.1), educación para el desarrollo sostenible en currículo/docentes/políticas (12.8.1), herramientas de monitoreo del turismo sostenible (12.b) y subsidios a combustibles fósiles (12.c) | Puntaje de eficiencia DEA: de 0 (nada eficiente) a 1 (frontera de eficiencia); 21 de 54 países resultaron eficientes (score = 1). Distancia estandarizada (z-score) respecto a la meta: 0 = meta ya alcanzada, valores positivos indican distancia restante |
+| 2 | The SDG accelerator: Circular economy solutions through efficient sustainable consumption. | Economía circular y educación como aceleradores del ODS 12 (producción y consumo responsables) | Muestra soluciones prácticas replicables: sensores/IoT para trazabilidad de materiales, sistemas de clasificación (magnética, óptica FT-NIR, densidad) usados en centros de reciclaje reales, y casos de instalaciones locales de recuperación de materiales (MRF) a pequeña escala como referencia directa para el prototipo. | Casos de estudio con datos de gestión de residuos: tasa de reciclaje de plástico en India (~61%, mayormente mecánico), tasa de residuos reciclables en Filipinas (28%, de los cuales 10.55% es plástico), cobertura de infraestructura (centros de recuperación de materiales - MRF, rellenos sanitarios), y tasa de recolección/segregación de residuos | Rangos reportados: recolección de residuos en Filipinas ~54.89% (meta 100%); aumento de la tasa de aprovechamiento de recursos en China ~26% (2015–2020); reducción del consumo de agua por unidad de PIB ~28% en China; aprovechamiento de paja de cultivo >86% y residuos sólidos a granel 56% en China |
+| 3 |Estimation of the valorization potential of municipal solid waste under a bioeconomy approach: contribution to the achievement of SDG 11 and 12 in the city of Chachapoyas, Amazonas, Peru.  | Valorización y clasificación de residuos sólidos |Aporta información que sustenta la necesidad de identificar, clasificar y cuantificar los residuos reciclables. La caracterización realizada en el estudio demuestra que conocer la composición y cantidad de los residuos permite mejorar su recuperación y aprovechamiento, aspecto que nuestro sistema busca facilitar mediante sensores, cámara, pesaje y registro de datos.  | Tipo de residuo, peso, cantidad, composición, porcentaje, reciclabilidad y valorización. | Orgánicos: 41.75%; inorgánicos reciclables: 15.3%; plástico: 17.38%; cartón: 8.59%; papel: 3.32%. |
 
 ## 2. Patentes
 
