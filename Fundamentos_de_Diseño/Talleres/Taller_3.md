@@ -40,6 +40,7 @@ La patente menciona una capacidad aproximada de 45 o más envases por minuto, un
 Esta propuesta aporta al proyecto un método de clasificación automática y almacenamiento separado. Sus principios pueden utilizarse para definir sensores, controlar el ingreso de residuos, medir la cantidad procesada y mejorar la segregación en los puntos de acopio.
 
 ### 2.3. *Waste sorting apparatus and method* (US20250058968A1)
+Brimmo, Pilscheur y Glia propusieron un sistema inteligente para la clasificación automática de residuos, desarrollado por Cycled Technologies AS. El sistema utiliza una cámara para reconocer los objetos mediante procesamiento de imágenes e inteligencia artificial, además de medios de detección de movimiento, peso y metales. Los residuos identificados son dirigidos hacia diferentes depósitos mediante una plataforma móvil que puede inclinarse y mecanismos de retención. La propuesta contempla la clasificación de materiales como plástico, papel y metal, incluyendo un cuarto grupo para residuos no diferenciados. Además, el sistema puede procesar varios objetos introducidos simultáneamente. Esta propuesta aporta a nuestro proyecto el uso de cámaras e inteligencia artificial para identificar residuos y mecanismos automatizados para su separación, sirviendo como referencia para diseñar el sistema de clasificación de plástico, papel, cartón y metal en nuestro prototipo.
 
 | N.° | Recurso | Tema | Aporte | Variables o características | Valores o rangos |
 |---:|---|---|---|---|---|
