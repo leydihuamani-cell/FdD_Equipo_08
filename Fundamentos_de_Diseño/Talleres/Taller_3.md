@@ -171,3 +171,5 @@ Cuenta con cinco bocas modulares y una capacidad de 67,5 L por compartimento. Pa
 4. Coyne JA, Aldrich SR, Hampson GS, Kiva KM. Reverse vending machine [Internet]. United States patent US6547055B2. 2003 [citado 3 de septiembre de 2026]. Disponible en: https://patents.google.com/patent/US6547055B2/en
 
 5. Bardugo Y, Porat L. Reverse vending system and method [Internet]. International patent WO2023195003A1. 2023 [citado 3 de septiembre de 2026]. Disponible en: https://patents.google.com/patent/WO2023195003A1/en
+6. 
+7. 	Gushiken N, Karina M, Rojas P, Felipe F, Soracco L, Gonzalo R. TRABAJO DE INVESTIGACIÓN PARA OBTENER EL GRADO DE BACHILLER EN ARTE CON MENCIÓN EN DISEÑO INDUSTRIAL.
