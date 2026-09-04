@@ -40,6 +40,14 @@ La patente menciona una capacidad aproximada de 45 o más envases por minuto, un
 Esta propuesta aporta al proyecto un método de clasificación automática y almacenamiento separado. Sus principios pueden utilizarse para definir sensores, controlar el ingreso de residuos, medir la cantidad procesada y mejorar la segregación en los puntos de acopio.
 
 ### 2.3. *Waste sorting apparatus and method* (US20250058968A1)
+
+<p align="center">
+  <img src="../../Recursos/Imágenes/Taller_03/articulo_01.jpg" width="700" alt="Comparación entre la estimación de volumen con modelos geométricos e imágenes de profundidad">
+</p>
+<p align="center">
+  <em>Figura 1. Esquema general de la máquina de vending inverso. Fuente: patente US6547055B2.</em>
+</p>
+
 Brimmo, Pilscheur y Glia propusieron un sistema inteligente para la clasificación automática de residuos. El dispositivo cuenta con un compartimento de recepción y un sistema de detección capaz de identificar y localizar los residuos mediante reconocimiento óptico, detección de metales, detección de peso y técnicas de inteligencia artificial. La clasificación puede considerar materiales como papel, plástico y metal. Una característica principal de la propuesta es su mecanismo de separación basado en la posición de los objetos. Después de identificar los residuos, una plataforma móvil puede inclinarse para dirigirlos hacia diferentes contenedores, mientras que mecanismos de retención mantienen en su lugar los objetos que deben ser separados posteriormente. La patente contempla incluso la clasificación simultánea de varios residuos de diferentes tipos, utilizando un sistema compacto que evita depender de grandes bandas transportadoras
 Esta propuesta aporta a nuestro proyecto el uso de cámaras e inteligencia artificial para identificar residuos y mecanismos automatizados para su separación, sirviendo como referencia para diseñar el sistema de clasificación de plástico, papel, cartón y metal en nuestro prototipo.
 
