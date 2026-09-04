@@ -51,7 +51,13 @@ Brimmo, Pilscheur y Glia propusieron un sistema inteligente para la clasificaci�
 
 ## 3. Tesis
 
-### Tesis 1
+### 3.1. ENKEI: Sistema de Segregación de Residuos Domésticos para Zonas Urbanas
+
+Noborikawa Gushiken desarrolló ENKEI, una propuesta de diseño orientada a mejorar la segregación de residuos domésticos en zonas urbanas. La investigación aborda las dificultades relacionadas con la clasificación de los residuos y plantea el desarrollo de un sistema que facilite esta actividad mediante una solución de diseño centrada en el usuario.
+
+El trabajo resulta relevante para nuestro proyecto porque demuestra que el diseño de un sistema puede facilitar la separación de residuos desde el punto donde son generados, reduciendo las dificultades asociadas a su clasificación. Además, el enfoque de la investigación permite considerar aspectos como la facilidad de uso, la organización de los residuos y la interacción del usuario con el sistema.
+
+Para nuestra propuesta, este antecedente puede servir como referencia para definir los requerimientos de un sistema de menor escala destinado a pequeños centros de acopio. A diferencia de ENKEI, nuestro proyecto busca incorporar identificación mediante sensores y/o cámara, pesaje y registro digital de los residuos, de manera que, además de facilitar su clasificación, permita conocer la cantidad y composición de los materiales recibidos.
 
 ### Tesis 2
 
