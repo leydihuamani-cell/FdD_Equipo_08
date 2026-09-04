@@ -39,7 +39,7 @@ Después de la identificación, los materiales son clasificados, triturados o co
 La patente menciona una capacidad aproximada de 45 o más envases por minuto, una abertura de ingreso situada aproximadamente a 1200 mm del suelo y un nivel promedio de ruido menor de 60 dBA. También considera propiedades como el peso, la forma y la conductividad para reconocer los materiales [2].
 Esta propuesta aporta al proyecto un método de clasificación automática y almacenamiento separado. Sus principios pueden utilizarse para definir sensores, controlar el ingreso de residuos, medir la cantidad procesada y mejorar la segregación en los puntos de acopio.
 
-### Patente 3
+### 2.3. *Waste sorting apparatus and method (US20250058968A1)*
 
 | N.° | Recurso | Tema | Aporte al proyecto | Variables/Caracteristicas | Valores/Rango |
 |---:|---|---|---|---|---|
