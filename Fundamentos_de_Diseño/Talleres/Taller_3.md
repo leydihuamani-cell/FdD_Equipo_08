@@ -127,7 +127,7 @@ El trabajo integra la caracterización de residuos sólidos (plástico, papel, c
 
 Para el proyecto, esta tesis aporta una fundamentación directa sobre el contexto peruano y valida la necesidad de implementar estaciones de recepción tecnológicas de menor escala que automaticen la recolección selectiva y generen datos trazables para optimizar la logística del reciclaje.
 
-### 3.3.
+### 3.3. Contenedor inteligente para la gestión de residuos sólidos en el complejo universitario de la Universidad Estatal del Sur de Manabí.
 
 
 
