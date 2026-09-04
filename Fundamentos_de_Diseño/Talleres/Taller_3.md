@@ -3,6 +3,8 @@
 ## 1. Artículos científicos
 
 ### Artículo científico 1
+Sustainable Well-Being and Sustainable Consumption and Production: An Efficiency Analysis of Sustainable Development Goal 12. 
+
 Autores: Rosalia Castellano, Gabriella De Bernardo, Gennaro Punzo.
 
 Año: 2024
