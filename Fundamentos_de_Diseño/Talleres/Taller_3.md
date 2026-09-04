@@ -23,7 +23,9 @@ La economía circular busca reducir el desperdicio y mantener los recursos en us
 Estimation of the valorization potential of municipal solid waste under a bioeconomy approach: contribution to the achievement of SDG 11 and 12 in the city of Chachapoyas, Amazonas, Peru.
 
 Autores: Percy Zuta Castillo, Yesica Montenegro Santillán, Wildor Gosgot Angeles, Carla M. Ordinola Ramírez, Miguel Ángel Barrena Gurbillón.
+
 Año: 2025
+
 El estudio señala que la inadecuada gestión de residuos genera problemas ambientales, sociales y económicos, por lo que es necesario mejorar su separación, recuperación y aprovechamiento. Para conocer la composición de los residuos se realizó una caracterización en hogares y establecimientos, identificando que el 41.75 % corresponde a residuos orgánicos y el 15.3 % a residuos inorgánicos reciclables, entre los que destacan plástico, cartón y papel. Los resultados muestran que mediante procesos de separación, reciclaje y compostaje es posible reducir la cantidad de residuos enviados a los botaderos, generar beneficios económicos y disminuir las emisiones de CO₂. En 2023, el modelo permitió reducir en 50 % el volumen de residuos enviados al botadero y generar ingresos mediante la comercialización de materiales valorizados
 
 | N.° | Recurso | Tema | Aporte al proyecto | Variables/Características | Valores/Rango |
