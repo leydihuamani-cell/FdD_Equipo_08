@@ -133,16 +133,49 @@ Para el proyecto, esta tesis aporta una referencia tecnológica directa sobre el
 ## 4. Productos comerciales
 
 ### 4.1 Biocrux Smart Bin
+<p align="center">
+  <img
+    src="https://github.com/leydihuamani-cell/FdD_Equipo_08/blob/96c0e06f685c722b19a7db7b5fb85307c66c2434/Recursos/Taller_3/Producto%201.jpeg"
+    width="400"
+    alt="Biocruz Smart Bin">
+</p>
+
+<p align="center">
+ Figura 4. Biocrux Smart Bin. Fuente:
+  <a href="https://www.biocrux.co.in/smart-bin?utm_source " </a>.
+</p>
 El Biocrux Smart Bin es un contenedor inteligente para la recolección diferenciada de residuos secos. Cuenta con tecnología IoT que permite monitorear su estado y recibir alertas cuando necesita ser vaciado. Además, incorpora un sistema de compactación para reducir el volumen de los residuos y tres compartimentos para facilitar su separación.
 
 Su capacidad es de 60 a 100 L y está diseñado para residuos como botellas, latas, bolsas y envases Tetra Pak. Para nuestro proyecto, sirve como referencia principalmente para la recolección, compactación y monitoreo inteligente de residuos.
 
 ### 4.2 TOMRA T100
+<p align="center">
+  <img
+    src="https://github.com/leydihuamani-cell/FdD_Equipo_08/blob/96c0e06f685c722b19a7db7b5fb85307c66c2434/Recursos/Taller_3/Producto%202.jpeg"
+    width="400"
+    alt="TOMRA T100">
+</p>
+
+<p align="center">
+ Figura 5. Máquina de devolución automática TOMRA T100. Fuente:
+  <a href="https://www.tomra.com/reverse-vending/our-offering/reverse-vending-machines/tomra-t100" </a>.
+</p>
 La TOMRA T100 es una máquina de devolución automatizada que permite ingresar envases individualmente y reconocerlos mediante diferentes tecnologías. Utiliza reconocimiento de forma, códigos de barras, detección de metales y sistemas de visión para identificar los envases recibidos.
 
 Puede procesar hasta 60 envases por minuto y está diseñada para recibir botellas, latas, envases de vidrio y cajas. Para nuestro proyecto, representa una referencia para la identificación automatizada y recepción individual de los residuos.
 
 ### 4.3 Reciclado Inteligente
+<p align="center">
+  <img
+    src="https://github.com/leydihuamani-cell/FdD_Equipo_08/blob/96c0e06f685c722b19a7db7b5fb85307c66c2434/Recursos/Taller_3/Producto%203.jpeg"
+    width="400"
+    alt="Contenedor inteligente multirresiduo">
+</p>
+
+<p align="center">
+ Figura 6. Contenedor inteligente multirresiduo. Fuente:
+  <a href="https://recicladointeligente.com/#contacto" </a>.
+</p>
 El Contenedor Inteligente Multirresiduo de Reciclado Inteligente permite realizar la recogida diferenciada mediante varios compartimentos. El sistema incorpora conectividad, detector de movimiento y monitoreo del nivel de llenado, además de generar estadísticas e informes sobre la gestión de los residuos.
 
 Cuenta con cinco bocas modulares y una capacidad de 67,5 L por compartimento. Para nuestro proyecto, sirve como referencia para la separación multirresiduo, conectividad y gestión de información.
