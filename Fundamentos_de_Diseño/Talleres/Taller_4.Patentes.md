@@ -25,7 +25,7 @@
 
 ## PATENTE 2
 
-### Automatic sorting of waste
+### US11104512B2: Automatic sorting of waste
 
 | **CAMPO** | **INFORMACIÓN** |
 |---|---|
