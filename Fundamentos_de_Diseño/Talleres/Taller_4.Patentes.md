@@ -2,7 +2,7 @@
 
 ## PATENTE 1
 
-### [Título de la patente]
+### SYSTEM AND METHOD FOR IDENTIFYING, SORTING, AND MONITORING DISCARDED OBJECTS
 
 | **CAMPO** | **INFORMACIÓN** |
 |---|---|
