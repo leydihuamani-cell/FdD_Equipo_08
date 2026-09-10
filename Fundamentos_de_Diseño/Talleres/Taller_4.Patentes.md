@@ -20,7 +20,7 @@
 |---|---|
 | La patente propone un contenedor inteligente capaz de identificar, clasificar y separar automáticamente los residuos: el sistema utiliza una cámara y diferentes sensores para analizar cada objeto depositado, determinar si corresponde a plástico, metal, papel, vidrio, compost u otras categorías, y posteriormente emplea motores y plataformas de clasificación para dirigirlo al recipiente correspondiente. También puede incorporar sensores de peso y nivel de llenado, almacenar información sobre los residuos y transmitir datos de manera inalámbrica para monitorear la composición y cantidad de desechos.| <img width="400" alt="Figura de la patente 1" src="ENLACE_DE_LA_IMAGEN_1" /> <img width="400" alt="Figura de la patente 1" src="ENLACE_DE_LA_IMAGEN_2" /> |
 
-🔗 [Ver patente](ENLACE_DE_LA_PATENTE)
+🔗 [Ver patente](https://worldwide.espacenet.com/patent/search/family/094482612/publication/US20250051092A1?q=US20250051092A1)
 
 ---
 
@@ -68,6 +68,6 @@
 |---|---|
 |La patente propone un sistema de asistencia para la clasificación de residuos que busca mejorar la precisión de la separación. El sistema utiliza una cámara para obtener imágenes de los residuos, un sistema de control para estimar el material y un dispositivo de proyección que muestra sobre el residuo información relacionada con el material identificado. También incorpora un transportador o banda para desplazar los residuos y puede utilizar un brazo robótico para moverlos.  |  |
 
-🔗 [Ver patente](ENLACE_DE_LA_PATENTE)
+🔗 [Ver patente](https://worldwide.espacenet.com/patent/search/family/072239671/publication/WO2020175623A1?q=Waste%20sorting%20unit%2C%20system%20AND%20method%20for%20sorting%20waste)
 
 ---
