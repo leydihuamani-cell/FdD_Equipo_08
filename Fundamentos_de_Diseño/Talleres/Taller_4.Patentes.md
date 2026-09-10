@@ -6,19 +6,21 @@
 
 | **CAMPO** | **INFORMACIÓN** |
 |---|---|
-| **TÍTULO** | [Título completo de la patente] |
-| **N.° DE PUBLICACIÓN** | [Número de publicación](ENLACE_DE_LA_PATENTE) |
-| **SOLICITANTE / TITULAR** | [Nombre del solicitante o titular] |
-| **INVENTOR(ES)** | [Nombre del inventor o inventores] |
-| **FECHA DE PUBLICACIÓN** | [Día/mes/año] |
-| **¿QUÉ APORTA A NUESTRO PROYECTO?** | [Explicar qué tecnología, mecanismo o principio aporta al proyecto.] |
-| **CARACTERÍSTICAS RELACIONADAS** | [Sensores, mecanismos, materiales, funciones o componentes relacionados.] |
-| **VALORES** | [Sostenibilidad, eficiencia, accesibilidad, seguridad, autonomía, etc.] |
-| **CAMPO APLICACIÓN** |  |
+| **TÍTULO** | SYSTEM AND METHOD FOR IDENTIFYING, SORTING, AND MONITORING DISCARDED OBJECTS |
+| **N.° DE PUBLICACIÓN** | 
+US20250051092A1 
+ |
+| **SOLICITANTE / TITULAR** | John Jennings Calhoun Starke y John William Starke |
+| **INVENTOR(ES)** | John Jennings Calhoun Starke y John William Starke |
+| **FECHA DE PUBLICACIÓN** | 13/02/2025|
+| **¿QUÉ APORTA A NUESTRO PROYECTO?** | Usando de base su método de gestión de residuos con el uso respectivo de sensores para clasificar. Aporta el concepto de un sistema inteligente capaz de identificar, clasificar, pesar y separar residuos automáticamente, además de registrar información sobre los residuos recibidos. |
+| **CARACTERÍSTICAS RELACIONADAS** | Sensor de peso, procesador, algoritmos de aprendizaje automático, contenedores separados, plataforma de clasificación, sensores de nivel de llenado y comunicación inalámbrica. |
+| **VALORES** | Eficiencia, automatización, sostenibilidad, reducción de residuos enviados a vertederos, optimización de la gestión de residuos y monitoreo en tiempo real |
+| **CAMPO APLICACIÓN** | Gestión y clasificación inteligente de residuos sólidos |
 
 | **RESUMEN** | **IMÁGENES** |
 |---|---|
-| [Explicar brevemente qué problema resuelve la patente, cómo funciona y cuáles son sus componentes principales.] | <img width="400" alt="Figura de la patente 1" src="ENLACE_DE_LA_IMAGEN_1" /> <img width="400" alt="Figura de la patente 1" src="ENLACE_DE_LA_IMAGEN_2" /> |
+| La patente propone un contenedor inteligente capaz de identificar, clasificar y separar automáticamente los residuos: el sistema utiliza una cámara y diferentes sensores para analizar cada objeto depositado, determinar si corresponde a plástico, metal, papel, vidrio, compost u otras categorías, y posteriormente emplea motores y plataformas de clasificación para dirigirlo al recipiente correspondiente. También puede incorporar sensores de peso y nivel de llenado, almacenar información sobre los residuos y transmitir datos de manera inalámbrica para monitorear la composición y cantidad de desechos.| <img width="400" alt="Figura de la patente 1" src="ENLACE_DE_LA_IMAGEN_1" /> <img width="400" alt="Figura de la patente 1" src="ENLACE_DE_LA_IMAGEN_2" /> |
 
 🔗 [Ver patente](ENLACE_DE_LA_PATENTE)
 
