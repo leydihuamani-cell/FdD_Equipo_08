@@ -14,6 +14,7 @@
 | **¿QUÉ APORTA A NUESTRO PROYECTO?** | [Explicar qué tecnología, mecanismo o principio aporta al proyecto.] |
 | **CARACTERÍSTICAS RELACIONADAS** | [Sensores, mecanismos, materiales, funciones o componentes relacionados.] |
 | **VALORES** | [Sostenibilidad, eficiencia, accesibilidad, seguridad, autonomía, etc.] |
+| **VALORES** | [Sostenibilidad, eficiencia, accesibilidad, seguridad, autonomía, etc.] |
 
 | **RESUMEN** | **IMÁGENES** |
 |---|---|
