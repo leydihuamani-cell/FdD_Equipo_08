@@ -14,7 +14,7 @@
 | **¿QUÉ APORTA A NUESTRO PROYECTO?** | [Explicar qué tecnología, mecanismo o principio aporta al proyecto.] |
 | **CARACTERÍSTICAS RELACIONADAS** | [Sensores, mecanismos, materiales, funciones o componentes relacionados.] |
 | **VALORES** | [Sostenibilidad, eficiencia, accesibilidad, seguridad, autonomía, etc.] |
-| **VALORES** | [Sostenibilidad, eficiencia, accesibilidad, seguridad, autonomía, etc.] |
+| **CAMPO APLICACIÓN** |  |
 
 | **RESUMEN** | **IMÁGENES** |
 |---|---|
@@ -38,6 +38,7 @@
 | **¿QUÉ APORTA A NUESTRO PROYECTO?** | |
 | **CARACTERÍSTICAS RELACIONADAS** | Cámara, sensor de peso, sensor de inductancia, sensores de movimiento, procesador, compartimento de clasificación y recipientes separados. |
 | **VALORES** |≥80 % de certeza para identificar un material reciclable; pesos de referencia de 11–23 g para papel, 13–15 g para latas metálicas y 14–19 g para recipientes plásticos.|
+| **CAMPO APLICACIÓN** |  |
 
 | **RESUMEN** | **IMÁGENES** |
 |---|---|
@@ -61,6 +62,7 @@
 | **¿QUÉ APORTA A NUESTRO PROYECTO?** | |
 | **CARACTERÍSTICAS RELACIONADAS** | |
 | **VALORES** | |
+| **CAMPO APLICACIÓN** |  |
 
 | **RESUMEN** | **IMÁGENES** |
 |---|---|
