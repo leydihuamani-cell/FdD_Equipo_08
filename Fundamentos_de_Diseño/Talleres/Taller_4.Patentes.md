@@ -25,7 +25,7 @@
 
 ## PATENTE 2
 
-### [Título de la patente]
+### Automatic sorting of waste
 
 | **CAMPO** | **INFORMACIÓN** |
 |---|---|
