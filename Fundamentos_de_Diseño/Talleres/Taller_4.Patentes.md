@@ -7,9 +7,7 @@
 | **CAMPO** | **INFORMACIÓN** |
 |---|---|
 | **TÍTULO** | SYSTEM AND METHOD FOR IDENTIFYING, SORTING, AND MONITORING DISCARDED OBJECTS |
-| **N.° DE PUBLICACIÓN** | 
-US20250051092A1 
- |
+| **N.° DE PUBLICACIÓN** | US20250051092A1  |
 | **SOLICITANTE / TITULAR** | John Jennings Calhoun Starke y John William Starke |
 | **INVENTOR(ES)** | John Jennings Calhoun Starke y John William Starke |
 | **FECHA DE PUBLICACIÓN** | 13/02/2025|
