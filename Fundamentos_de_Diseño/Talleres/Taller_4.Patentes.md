@@ -25,15 +25,15 @@
 
 ## PATENTE 2
 
-### US11104512B2 Automatic sorting of waste
+### Automatic sorting of waste
 
 | **CAMPO** | **INFORMACIÓN** |
 |---|---|
 | **TÍTULO** | Automatic sorting of waste |
-| **N.° DE PUBLICACIÓN** | |
+| **N.° DE PUBLICACIÓN** | US11104512B2 |
 | **SOLICITANTE / TITULAR** | |
-| **INVENTOR(ES)** | |
-| **FECHA DE PUBLICACIÓN** | |
+| **INVENTOR(ES)** | Vaishnavi Krishnamurthy; Puru Rastogi; Graeme Austin Rock; Koushil Sreenath; Charles Arthur Yhap; Tanner Cook; Jayant Sharma |
+| **FECHA DE PUBLICACIÓN** | 31/08/2021 |
 | **¿QUÉ APORTA A NUESTRO PROYECTO?** | |
 | **CARACTERÍSTICAS RELACIONADAS** | |
 | **VALORES** | |
