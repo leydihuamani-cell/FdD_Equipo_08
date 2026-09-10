@@ -35,22 +35,22 @@
 | **SOLICITANTE / TITULAR** |CleanRobotics Technologies Inc.|
 | **INVENTOR(ES)** | Vaishnavi Krishnamurthy; Puru Rastogi; Graeme Austin Rock; Koushil Sreenath; Charles Arthur Yhap; Tanner Cook; Jayant Sharma |
 | **FECHA DE PUBLICACIÓN** | 31/08/2021 |
-| **¿QUÉ APORTA A NUESTRO PROYECTO?** | |
+| **¿QUÉ APORTA A NUESTRO PROYECTO?** | Aporta el principio de identificación y clasificación automática mediante múltiples sensores, combinando cámara, peso e inductancia para determinar el tipo de residuo y dirigirlo al recipiente correspondiente. |
 | **CARACTERÍSTICAS RELACIONADAS** | Cámara, sensor de peso, sensor de inductancia, sensores de movimiento, procesador, compartimento de clasificación y recipientes separados. |
 | **VALORES** |≥80 % de certeza para identificar un material reciclable; pesos de referencia de 11–23 g para papel, 13–15 g para latas metálicas y 14–19 g para recipientes plásticos.|
-| **CAMPO APLICACIÓN** |  |
+| **CAMPO APLICACIÓN** | Gestión de residuos sólidos, clasificación automática y segregación de materiales reciclables mediante sensores y procesamiento de información. |
 
 | **RESUMEN** | **IMÁGENES** |
 |---|---|
 | El sistema recibe un residuo, detecta sus características mediante sensores y procesa la información para determinar su clasificación. La patente contempla un nivel de certeza de 80 % como referencia para aceptar la identificación de un material reciclable. Además, utiliza el peso como característica adicional, con ejemplos de rangos para papel, latas metálicas y recipientes plásticos. Esta propuesta aporta a nuestro proyecto la integración de cámara + pesaje + detección de metales para mejorar la identificación y clasificación automática de los residuos.|  |
 
-🔗 [Ver patente](ENLACE_DE_LA_PATENTE)
+🔗 [Ver patente](https://worldwide.espacenet.com/patent/search/family/060942062/publication/US11104512B2?q=US11104512B2)
 
 ---
 
 ## PATENTE 3
 
-###  [Waste sorting assistance device, waste sorting assistance system, and waste sorting assistance method]
+###  Waste sorting assistance device, waste sorting assistance system, and waste sorting assistance method
 
 | **CAMPO** | **INFORMACIÓN** |
 |---|---|
