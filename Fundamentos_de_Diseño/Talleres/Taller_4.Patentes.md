@@ -66,7 +66,7 @@
 
 | **RESUMEN** | **IMÁGENES** |
 |---|---|
-|La patente propone un sistema de asistencia para la clasificación de residuos que busca mejorar la precisión de la separación. El sistema utiliza una cámara para obtener imágenes de los residuos, un sistema de control para estimar el material y un dispositivo de proyección que muestra sobre el residuo información relacionada con el material identificado. También incorpora un transportador o banda para desplazar los residuos y puede utilizar un brazo robótico para moverlos.  |  |
+|La patente propone un sistema de asistencia para la clasificación de residuos que busca mejorar la precisión de la separación. El sistema utiliza una cámara para obtener imágenes de los residuos, un sistema de control para estimar el material y un dispositivo de proyección que muestra sobre el residuo información relacionada con el material identificado. También incorpora un transportador o banda para desplazar los residuos y puede utilizar un brazo robótico para moverlos.  | https://github.com/leydihuamani-cell/FdD_Equipo_08/blob/b537800dc808faccd640b6692c7187786784ec40/Recursos/Taller_3/patente2.1..jpeg |
 
 🔗 [Ver patente](https://worldwide.espacenet.com/patent/search/family/072239671/publication/WO2020175623A1?q=Waste%20sorting%20unit%2C%20system%20AND%20method%20for%20sorting%20waste)
 
