@@ -50,23 +50,23 @@
 
 ## PATENTE 3
 
-### [Título de la patente]
+###  [Waste sorting assistance device, waste sorting assistance system, and waste sorting assistance method]
 
 | **CAMPO** | **INFORMACIÓN** |
 |---|---|
-| **TÍTULO** |  |
-| **N.° DE PUBLICACIÓN** |  |
-| **SOLICITANTE / TITULAR** |  |
-| **INVENTOR(ES)** |  |
-| **FECHA DE PUBLICACIÓN** | |
-| **¿QUÉ APORTA A NUESTRO PROYECTO?** | |
-| **CARACTERÍSTICAS RELACIONADAS** | |
-| **VALORES** | |
-| **CAMPO APLICACIÓN** |  |
+| **TÍTULO** | Waste sorting assistance device, waste sorting assistance system, and waste sorting assistance method |
+| **N.° DE PUBLICACIÓN** |WO2020175623A1  |
+| **SOLICITANTE / TITULAR** | Rita Technology Corporation |
+| **INVENTOR(ES)** | Kohei Ueno, Yoshiaki Imajyuku y Noriyuki Natori  |
+| **FECHA DE PUBLICACIÓN** |03/09/2020 |
+| **¿QUÉ APORTA A NUESTRO PROYECTO?** |Aporta como referencia un sistema que utiliza una cámara y procesamiento de información para identificar el material de los residuos y facilitar su clasificación. Esto se relaciona con DESTINO porque nuestro proyecto también busca identificar los residuos y dirigirlos hacia el recipiente correspondiente. |
+| **CARACTERÍSTICAS RELACIONADAS** |Cámara, sensores, sistema de control, procesamiento de imágenes, identificación del material, sistema de transporte y mecanismo de separación. |
+| **VALORES** |Eficiencia, automatización, precisión, sostenibilidad y reducción del esfuerzo durante la clasificación de residuos. |
+| **CAMPO APLICACIÓN** |Gestión y clasificación de residuos, principalmente en sistemas automatizados que utilizan cámaras, procesamiento de imágenes y mecanismos de transporte para facilitar la separación de residuos según su material.  |
 
 | **RESUMEN** | **IMÁGENES** |
 |---|---|
-|  |  |
+|La patente propone un sistema de asistencia para la clasificación de residuos que busca mejorar la precisión de la separación. El sistema utiliza una cámara para obtener imágenes de los residuos, un sistema de control para estimar el material y un dispositivo de proyección que muestra sobre el residuo información relacionada con el material identificado. También incorpora un transportador o banda para desplazar los residuos y puede utilizar un brazo robótico para moverlos.  |  |
 
 🔗 [Ver patente](ENLACE_DE_LA_PATENTE)
 
