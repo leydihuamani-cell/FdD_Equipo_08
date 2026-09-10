@@ -36,7 +36,7 @@
 | **FECHA DE PUBLICACIÓN** | 31/08/2021 |
 | **¿QUÉ APORTA A NUESTRO PROYECTO?** | |
 | **CARACTERÍSTICAS RELACIONADAS** | |
-| **VALORES** | |
+| **VALORES** |≥80 % de certeza para identificar un material reciclable; pesos de referencia de 11–23 g para papel, 13–15 g para latas metálicas y 14–19 g para recipientes plásticos.|
 
 | **RESUMEN** | **IMÁGENES** |
 |---|---|
@@ -59,7 +59,7 @@
 | **FECHA DE PUBLICACIÓN** | |
 | **¿QUÉ APORTA A NUESTRO PROYECTO?** | |
 | **CARACTERÍSTICAS RELACIONADAS** | |
-| **VALORES** | ≥80 % de certeza para identificar un material reciclable; pesos de referencia de 11–23 g para papel, 13–15 g para latas metálicas y 14–19 g para recipientes plásticos.|
+| **VALORES** | |
 
 | **RESUMEN** | **IMÁGENES** |
 |---|---|
