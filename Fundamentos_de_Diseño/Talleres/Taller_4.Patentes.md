@@ -31,7 +31,7 @@
 |---|---|
 | **TÍTULO** | Automatic sorting of waste |
 | **N.° DE PUBLICACIÓN** | US11104512B2 |
-| **SOLICITANTE / TITULAR** | |
+| **SOLICITANTE / TITULAR** |CleanRobotics Technologies Inc.|
 | **INVENTOR(ES)** | Vaishnavi Krishnamurthy; Puru Rastogi; Graeme Austin Rock; Koushil Sreenath; Charles Arthur Yhap; Tanner Cook; Jayant Sharma |
 | **FECHA DE PUBLICACIÓN** | 31/08/2021 |
 | **¿QUÉ APORTA A NUESTRO PROYECTO?** | |
