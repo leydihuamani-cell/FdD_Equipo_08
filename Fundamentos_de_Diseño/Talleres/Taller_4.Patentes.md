@@ -40,7 +40,7 @@
 
 | **RESUMEN** | **IMÁGENES** |
 |---|---|
-|  |  |
+| El sistema recibe un residuo, detecta sus características mediante sensores y procesa la información para determinar su clasificación. La patente contempla un nivel de certeza de 80 % como referencia para aceptar la identificación de un material reciclable. Además, utiliza el peso como característica adicional, con ejemplos de rangos para papel, latas metálicas y recipientes plásticos. Esta propuesta aporta a nuestro proyecto la integración de cámara + pesaje + detección de metales para mejorar la identificación y clasificación automática de los residuos.|  |
 
 🔗 [Ver patente](ENLACE_DE_LA_PATENTE)
 
